@@ -1,4 +1,17 @@
-h1 {
+
+nav {
+    background-color: steelblue;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    text-decoration: wavy;
+    padding: 10px;
+    display: block;
+}
+
+h1, h2 {
     color: steelblue;
 
 }
