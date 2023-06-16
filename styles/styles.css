@@ -1,5 +1,5 @@
 
-nav {
+header {
     background-color: steelblue;
     padding: 10px;
 }
@@ -38,6 +38,7 @@ aside img {
 main img {
     width: 150px;
     height: auto;
+    background-color: gray;
 }
 
 p {
