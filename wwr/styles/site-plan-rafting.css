@@ -18,6 +18,9 @@
 
 }
 
+main{
+    background-color: #E3D7FF;
+}
 body {
     font-family: var(--paragraph-font);
     max-width: 960px;
