@@ -17,9 +17,16 @@
 
 
 }
-
+img {
+    width: 150px;
+    height: auto;
+    padding: 20px;
+    background-color: gray;
+}
 main{
-    background-color: #E3D7FF;
+    background-color: #cecece;
+    padding: 2px;
+    box-shadow: 0 0 30px color(gray);
 }
 body {
     font-family: var(--paragraph-font);
