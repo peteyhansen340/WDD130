@@ -8,7 +8,7 @@
     --accent2-color: #F9AB55;
 
     --header-font: 'auto', serif;
-    --paragraph-font: 'auto', serif;
+    --paragraph-font: 'auto', sans-serif;
 
     --nav-background-color: #084887;
     --nav-link-color: #E3D7FF;
@@ -35,10 +35,17 @@ body {
 
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3 {
+    font-family: var(--paragraph-font);
+    color: #084887;
+}
+
+h4, h5, h6 {
     font-family: var(--heading-font);
     color: var(--primay-color);
 }
+
+
 
 header{
     padding: 20px;
@@ -46,6 +53,7 @@ header{
 }
 
 p {
+    font-family: var(--paragraph-font);
     padding: 25px;
 
 }
