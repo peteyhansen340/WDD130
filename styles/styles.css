@@ -35,7 +35,7 @@ aside img {
 
 aside h2 {
     position: absolute;
-    top: 47px;
+    top: 25px;
     left: 150px;
 }
 main img {
@@ -63,7 +63,7 @@ footer {
 
 }
 
-/* class selectors */
+/*class selectors*/
 
 .box {
     margin: 1rem;
