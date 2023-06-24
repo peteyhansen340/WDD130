@@ -1,0 +1,50 @@
+
+:root {
+    --primary-color: #E3D7FF;
+    --secondary-color: #084887;
+    --accent1-color: #F58A07;
+    --accent2-color: #F9AB55;
+
+    --header-font: 'auto', serif;
+    --paragraph-font: 'auto', sans-serif;
+
+    --nav-background-color: #084887;
+    --nav-link-color: #E3D7FF;
+    --nav-hover-link-color: #E3D7FF;
+    --nav-hover-background-color: #E3D7FF;
+}
+    
+
+
+
+header {
+    padding: 20px;
+    text-align: center;
+    font-family: var(--header-font);
+    background-color: var(--nav-background-color);
+}
+
+p {
+    font-family: var(--paragraph-font);
+    padding: 25px;
+}
+
+.hero img{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+article img {
+    position: right;
+    box-shadow: gray;
+}
+
+h1 {
+    position: absolute;
+}
+
+article {
+    position: absolute;
+    background-color: var(--nav-hover-background-color);
+}
