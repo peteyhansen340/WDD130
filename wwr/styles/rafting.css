@@ -17,14 +17,14 @@
 
 
 
-header {
+head {
     padding: 20px;
     text-align: center;
     font-family: var(--header-font);
     background-color: var(--nav-background-color);
 }
 
-header img {
+head img {
     width: 15%;
     height: auto;
 }
