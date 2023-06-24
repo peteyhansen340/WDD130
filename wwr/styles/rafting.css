@@ -34,7 +34,7 @@ p {
 }
 section img {
     align-items: center;
-    width: 100px;
+    width: 150px;
     height: auto;
 
 }
@@ -60,7 +60,6 @@ nav a {
 }
 
 article img {
-    position: right;
     box-shadow: gray;
     width: 100px;
     height: auto;
@@ -76,7 +75,7 @@ article {
 }
 
 footer img {
-    width: 10px;
+    width: 15px;
     height: auto;
     align-items: right;
 }
