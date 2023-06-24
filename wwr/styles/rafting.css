@@ -45,6 +45,19 @@ section img {
     align-items: center;
 }
 
+nav {
+    background-color: var(--nav-background-color);
+    font-size: 1.2rem;
+    display: flex;
+}
+
+nav a {
+    display: block;
+    color: var(--nav-hover-link-color);
+    text-decoration: none;
+    padding: 1rem;
+}
+
 article img {
     position: right;
     box-shadow: gray;
