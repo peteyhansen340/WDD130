@@ -34,7 +34,7 @@ p {
 }
 section img {
     align-items: center;
-    width: 150;
+    width: 100;
     height: auto;
 
 }
@@ -61,6 +61,8 @@ nav a {
 article img {
     position: right;
     box-shadow: gray;
+    width: 100;
+    height: auto;
 
 }
 
