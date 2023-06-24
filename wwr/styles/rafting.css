@@ -24,6 +24,10 @@ header {
     background-color: var(--nav-background-color);
 }
 
+header img {
+    width: 50;
+    height: auto;
+}
 p {
     font-family: var(--paragraph-font);
     padding: 25px;
