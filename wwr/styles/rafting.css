@@ -81,6 +81,7 @@ article {
 }
 
 footer img {
+    display: grid;
     width: 15px;
     height: auto;
     align-items: right;
