@@ -84,6 +84,9 @@ article {
     position: absolute;
 }
 
+footer {
+    place-items: bottom right;
+}
 footer img {
     display: grid;
     width: 15px;
