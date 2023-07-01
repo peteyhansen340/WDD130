@@ -55,7 +55,7 @@ section img {
 nav {
     background-color: var(--nav-background-color);
     font-size: 1.2rem;
-    display: grid;
+    display: block;
     text-align: right;
 }
 
