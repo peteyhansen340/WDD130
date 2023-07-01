@@ -17,7 +17,7 @@
 
 
 
-head {
+header {
     padding: 20px;
     margin: 1rem auto;
     display: block;
@@ -27,7 +27,11 @@ head {
     background-color: var(--nav-background-color);
 }
 
-
+.grid {
+    display: grid;
+    align-items: center;
+    max-width: auto;
+}
 main {
     padding: 2px;
     box-shadow: 0 0 30px gray;
