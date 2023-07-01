@@ -72,6 +72,10 @@ article img {
 
 }
 
+section title {
+    text-align: top center;
+}
+
 h1 {
     position: top center;
 }
