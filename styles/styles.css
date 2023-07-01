@@ -39,6 +39,14 @@ main {
     margin: 1rem;
     display: block;
 }
+
+section{
+    padding: 2px;
+    box-shadow: 0 0 30px gray;
+    grid-column: 2/3;
+    margin: 1rem;
+    display: block;
+}
 aside {
     width: 20rem;
     background-color: #eee;
