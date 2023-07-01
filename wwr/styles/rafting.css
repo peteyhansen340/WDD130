@@ -69,6 +69,7 @@ article img {
     box-shadow: gray;
     width: 100px;
     height: auto;
+    position: relative;
 
 }
 
