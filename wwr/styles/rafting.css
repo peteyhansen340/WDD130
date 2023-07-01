@@ -31,11 +31,13 @@ head img {
     margin: 0 0.25rem 0;
     width: 64px;
     height: auto;
+    display: grid;
 }
 p {
     font-family: var(--paragraph-font);
     padding: 25px;
 }
+
 section img {
     align-items: center;
     width: 150px;
@@ -53,7 +55,7 @@ section img {
 nav {
     background-color: var(--nav-background-color);
     font-size: 1.2rem;
-    display: flex;
+    display: grid;
     text-align: right;
 }
 
