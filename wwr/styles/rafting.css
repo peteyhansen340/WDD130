@@ -98,11 +98,11 @@ section{
 
 }
 section title {
-    text-align: top;
+    text-align: center;
 }
 
 h1 {
-    position: top;
+    position: absolute;
     border-bottom: #000; 
 }
 
