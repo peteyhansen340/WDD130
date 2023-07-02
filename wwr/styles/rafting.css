@@ -50,6 +50,7 @@ head img {
 p {
     font-family: var(--paragraph-font);
     padding: 25px;
+    text-align: center;
 }
 
 section img {
