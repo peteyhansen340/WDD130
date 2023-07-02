@@ -30,7 +30,7 @@ header {
 .grid {
     display: grid;
     align-items: center;
-    max-width: auto;
+    width: 20rem;
 }
 main {
     padding: 2px;
@@ -63,7 +63,6 @@ section img {
     display: block;
     width: 45px;
     height: auto;
-    align-items: right;
     position: absolute;
 }
 
@@ -83,7 +82,7 @@ nav a {
 }
 
 article img {
-    box-shadow: gray;
+    
     width: 100px;
     height: auto;
     position: relative;
@@ -99,11 +98,11 @@ section{
 
 }
 section title {
-    text-align: top center;
+    text-align: top;
 }
 
 h1 {
-    position: top center;
+    position: top;
     border-bottom: #000; 
 }
 
@@ -119,5 +118,5 @@ footer img {
     display: grid;
     width: 15px;
     height: auto;
-    align-items: right;
+    align-items: center;
 }
