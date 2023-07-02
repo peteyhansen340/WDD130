@@ -63,7 +63,7 @@ section img {
     display: block;
     width: 45px;
     height: auto;
-    align-items: under;
+    align-items: right;
     position: absolute;
 }
 
