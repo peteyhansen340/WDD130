@@ -74,7 +74,7 @@ section img {
 }
 .hero img{
     display: block;
-    width: 45px;
+    width: 200px;
     height: auto;
     position: absolute;
 }
@@ -132,10 +132,12 @@ article {
 footer {
     text-align: center;
     border-top: 1px solid #000;
+    display: grid;
 }
 footer img {
     display: grid;
     width: 15px;
     height: auto;
-    align-items: center;
+    align-items: right;
 }
+
