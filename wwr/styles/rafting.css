@@ -51,11 +51,12 @@ aside {
     grid-row: 1/2;
 }
 
-head img {
+
+header img {
     margin: 0 0.25rem 0;
     width: 64px;
     height: auto;
-    display: grid;
+    display: right;
 }
 p {
     font-family: var(--paragraph-font);
