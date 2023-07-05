@@ -67,7 +67,7 @@ p {
 }
 
 section img {
-    align-items: right;
+    align-items: auto;
     width: 150px;
     height: auto;
 
@@ -83,7 +83,6 @@ nav {
     background-color: var(--nav-background-color);
     font-size: 1.2rem;
     display: block;
-    text-align: right;
 }
 
 .navigation {
@@ -128,7 +127,7 @@ section{
     min-height: 300px;
 }
 h1 {
-    position: top;
+    position: center;
     border-bottom: #000; 
 }
 
@@ -145,6 +144,5 @@ footer img {
     display: grid;
     width: 15px;
     height: auto;
-    align-items: right;
 }
 
