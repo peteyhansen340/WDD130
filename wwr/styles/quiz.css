@@ -40,6 +40,8 @@ fieldset {
 p {
     text-align: center;
     margin: 1rem;
+    background-color: navy;
+    color: #fff;
 }
 
 legend{
