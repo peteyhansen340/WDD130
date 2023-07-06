@@ -39,6 +39,7 @@ fieldset {
 }
 p {
     text-align: center;
+    margin: 1rem;
     background-color: #333;
     text-decoration-color: #fff;
 }
