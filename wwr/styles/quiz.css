@@ -37,6 +37,11 @@ fieldset {
     border: 1px solid rgba(0, 0, 0, 0, 0.2);
     padding: 1rem;
 }
+p {
+    align-items: center;
+    background-color: #333;
+    text-decoration-color: #fff;
+}
 
 legend{
     padding: 0.5rem;
