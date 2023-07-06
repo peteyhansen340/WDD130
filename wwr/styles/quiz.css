@@ -38,7 +38,7 @@ fieldset {
     padding: 1rem;
 }
 p {
-    align-items: center;
+    text-align: center;
     background-color: #333;
     text-decoration-color: #fff;
 }
