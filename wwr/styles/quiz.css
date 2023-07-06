@@ -48,7 +48,7 @@ label, input, button, select, textarea {
 }
 
 label{
-    text-align: right;
+    text-align: center;
     padding: 1rem;
 }
 input, select, textarea{
