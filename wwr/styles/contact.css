@@ -74,12 +74,6 @@ section img {
     height: auto;
 
 }
-.hero img{
-    display: block;
-    width: 200px;
-    height: auto;
-    position: absolute;
-}
 
 nav {
     background-color: var(--nav-background-color);
