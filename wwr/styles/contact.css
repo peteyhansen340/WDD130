@@ -39,7 +39,10 @@ header, .grid, footer {
     align-items: center;
     width: 20rem;
 }
-
+.grid-item-2{
+    display: grid;
+    align-items: center;
+}
 main {
     padding: 2px;
     box-shadow: 0 0 30px gray;
