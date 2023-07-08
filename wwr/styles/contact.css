@@ -212,8 +212,10 @@ button{
     font-size: 1.2rem;
 }
 .form-item {
-    display: grid;
+    display: flex;
     align-items: center;
+    min-height: 300px;
+
 }
  .column1 {
     grid-template-columns: 3fr 1fr;
