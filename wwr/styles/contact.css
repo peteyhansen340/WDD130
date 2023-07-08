@@ -39,9 +39,7 @@ header, .grid, footer {
     align-items: center;
     width: 20rem;
 }
-grid-item-1{
-    width: flex;
-}
+
 main {
     padding: 2px;
     box-shadow: 0 0 30px gray;
@@ -167,6 +165,7 @@ body {
 
 form{
     width: auto;
+    height: 600px;
     margin: 0 auto;
     height: fit-content;
     padding: 1rem;
