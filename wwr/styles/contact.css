@@ -41,7 +41,7 @@ header, .grid, footer {
 }
 .grid-item-2{
     display: grid;
-    align-items: center;
+    align-content: space-around;
     grid-row: 1;
 }
 main {
