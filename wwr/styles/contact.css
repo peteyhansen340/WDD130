@@ -129,7 +129,6 @@ section{
 
 .flexbox-item-3, .flexbox-item-1, .flexbox-item-2{
     min-height: 300px;
-    max-height: 800px;
 }
 h1 {
     position: absolute;
