@@ -34,6 +34,16 @@ img {
     background: url(image/rafting.four.jpg) no-repeat center center;
     background-size: cover;
 }
+#home-hero h1{
+    font-size: 70px;
+    color: #fff;
+    text-shadow: 2px 2px 2px #333;
+}
+#home-hero p{
+    font-size: 32px;
+    color: #fff;
+    text-shadow: 2px 2px 2px #333; 
+}
 .no-margin{
     margin: 0;
     padding: 0;
