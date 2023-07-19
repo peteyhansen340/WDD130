@@ -23,6 +23,21 @@ img {
     padding: 20px;
     background-color: gray;
 }
+
+#home-hero{
+    margin-top: -69px;
+    height: 400px;
+}
+
+#home-hero{
+    position: relative;
+    background: url(image/rafting.four.jpg) no-repeat center center;
+    background-size: cover;
+}
+.no-margin{
+    margin: 0;
+    padding: 0;
+}
 main{
     
     padding: 2px;
