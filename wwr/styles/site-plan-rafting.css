@@ -38,6 +38,12 @@ img {
     margin: 0;
     padding: 0;
 }
+
+.container{
+    display: table;
+    content: "";
+
+}
 main{
     
     padding: 2px;
@@ -47,6 +53,7 @@ body {
     font-family: var(--paragraph-font);
     max-width: 960px;
     padding: 20px;
+    line-height: 22px;
 
 }
 
