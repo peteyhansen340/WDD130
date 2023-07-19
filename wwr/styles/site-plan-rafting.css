@@ -67,7 +67,6 @@ img {
 main{
     
     padding: 2px;
-    box-shadow: 0 0 30px color(rgb(128, 128, 128));
 }
 body {
     font-family: var(--paragraph-font);
