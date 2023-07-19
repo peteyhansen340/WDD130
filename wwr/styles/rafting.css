@@ -150,4 +150,20 @@ footer img {
     border-color: #000;
     display: block;
 }
+.navbar{
+    border-radius: 0;
+    margin-bottom: 0;
+    padding: 15px 0;
+    position: relative;
+    min-height: 50px;
+}
+nav a:link, nav a:visited {
+    color: var(--nav-link-color);
+}
+
+nav a:hover {
+    color: var(--nav-link-color);
+    background-color: var(--nav-hover-background-color);
+
+}
 
