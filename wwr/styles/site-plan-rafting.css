@@ -80,7 +80,16 @@ h4, h5, h6 {
 }
 
 
-
+footer {
+    text-align: center;
+    border-top: 1px solid #000;
+    display: grid;
+}
+footer img {
+    display: flex;
+    width: 15px;
+    height: auto;
+}
 header{
     padding: 20px;
     background-color: var(--accent1-color);
