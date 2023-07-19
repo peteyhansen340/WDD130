@@ -1,5 +1,5 @@
 
-@import url('https://font.googleapis.com/css2?family=optional-2nd-font-name&display=swap');
+
 
 :root {
     --primary-color: #E3D7FF;
@@ -67,7 +67,7 @@ img {
 main{
     
     padding: 2px;
-    box-shadow: 0 0 30px color(gray);
+    box-shadow: 0 0 30px color(rgb(128, 128, 128));
 }
 body {
     font-family: var(--paragraph-font);
